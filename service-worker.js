@@ -1,4 +1,4 @@
-const CACHE_NAME = 'anymalix-shell-v7';
+const CACHE_NAME = 'anymalix-shell-v8';
 const APP_FILES = [
   './',
   './index.html',
