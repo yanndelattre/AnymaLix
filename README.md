@@ -27,4 +27,4 @@ L’installation d’une application web depuis un fichier local est bloquée pa
 
 L’application reprend l’image fournie `icone.png` comme icône et logo. Les fichiers `icone-180.png`, `icone-192.png` et `icone-512.png` sont ses versions agrandies sans lissage pour l’installation.
 
-AnymAlix est une première version bêta. Elle fournit un atelier pixel art autonome et installable ; elle ne reproduit pas encore l’ensemble des fonctions avancées de Krita.
+AnymAlix est une première version bêta. Elle a été développé par Yann Delattre pour Epikix. ce document est protégé par les droits d'auteur  ( art L25 du code sur la propriété intellectuelle)
